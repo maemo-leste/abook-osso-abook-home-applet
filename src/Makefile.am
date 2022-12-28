@@ -7,7 +7,7 @@ osso_abook_home_applet_CFLAGS = \
 
 osso_abook_home_applet_LDFLAGS = \
 			-Wl,--as-needed $(APPLET_LIBS) \
-			$(MAEMO_LAUNCHER_LDFLAGS)
+			$(MAEMO_LAUNCHER_LIBS)
 
 osso_abook_home_applet_SOURCES = \
 			main.c \
