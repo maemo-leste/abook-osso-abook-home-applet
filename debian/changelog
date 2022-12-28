@@ -1,3 +1,9 @@
+osso-abook-home-applet (4.3.1) unstable; urgency=low
+
+  * Fix build on chimaera
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Wed, 28 Dec 2022 08:01:31 +0200
+
 osso-abook-home-applet (4.3.0) unstable; urgency=low
 
   * Initial release
